@@ -20,10 +20,8 @@
 - AntV、ECharts.
 
 <div>
-  <a href="https://github.com/yanbowe"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/yanbowe"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
-  </a>
+<div>
+ 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&layout=compact&hide=stars&count_private=true" alt="yanbowen's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&layout=compact&count_private=true&hide=html" />
 </div>
