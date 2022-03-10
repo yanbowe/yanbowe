@@ -15,3 +15,12 @@
 - Nuxt、Uniapp、Taro.
 - Vite、Webpack.
 - AntV、ECharts.
+
+<div>
+  <a href="https://github.com/yanbowe"> 
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/buqiyuan/buqiyuan"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
+</div>
