@@ -3,9 +3,10 @@
   <img src="./hello-world.gif" width="30%">
 </p>
 
-我是一名前端开发工程师,已经有将近4年的开发经验了✍️.
+ 我是一名前端开发工程师,已经有3年半的开发经验了，目前在美丽的杭州从事前端开发工作✍️.
 
 - 😄 我最喜欢的框架是[Vue3](https://github.com/vuejs/core)
+- 🤦‍ 在工作中我一直是一个人独立开发项目
 - 🚧 目前我正在参与一些基于Vue3的开源项目，有[taro-vue3-pinia](https://github.com/yanbowe/taro-vue3-pinia)  [vue3-antd-admin](https://github.com/buqiyuan/vue3-antd-admin)    [soybean-admin](https://github.com/honghuangdc/soybean-admin).
 - 🌱 我喜欢编写干净，整洁的代码.
 - 📫 联系方式：qq(349952469)、邮箱(349952469@qq.com).
@@ -22,5 +23,7 @@
   <a href="https://github.com/yanbowe"> 
     <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=dracula" />
   </a>
-  <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
+  <a href="https://github.com/yanbowe"> 
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
+  </a>
 </div>
