@@ -6,7 +6,6 @@
 - 🚧 目前我正在参与一些基于Vue3的开源项目，您可以在下面看到我参加的项目.
 - 🌱 我喜欢编写干净，整洁的代码.
 - 📫 联系方式：qq(349952469)、邮箱(349952469@qq.com).
-- ⚡ 最近，我希望能找一份好的工作.
 
 **个人技能**  
 
@@ -20,7 +19,7 @@
   <a href="https://github.com/yanbowe"> 
     <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=dracula" />
   </a>
-  <a href="https://github.com/buqiyuan/buqiyuan"> 
+  <a href="https://github.com/yanbowe"> 
     <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
   </a>
 </div>
