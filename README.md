@@ -1,5 +1,7 @@
 <h2 >👋 Hi! 我是燕博文.</h2>
-
+<p align="center">
+  <img src="./hello-world.gif" width="30%">
+</p>
 
 我是一名前端开发工程师,已经有将近4年的开发经验了✍️。
 
