@@ -17,9 +17,9 @@
 
 <div>
   <a href="https://github.com/yanbowe"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=dracula" />
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/yanbowe"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=dracula"/>
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&show_icons=true&layout=compact&theme=radical"/>
   </a>
 </div>
