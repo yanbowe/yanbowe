@@ -22,6 +22,6 @@
 <div>
 <div>
  
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&layout=compact&hide=stars&count_private=true" alt="yanbowen's GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&layout=compact&count_private=true&hide=html" />
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=yanbowe&show_icons=true&layout=compact&hide=stars&count_private=true" alt="yanbowen's GitHub Stats"/>
+ <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanbowe&layout=compact&count_private=true&hide=html" />
 </div>
